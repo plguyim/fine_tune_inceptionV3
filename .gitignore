@@ -1,0 +1,11 @@
+/__pycache__/transform_data.cpython-36.pyc
+/.idea/fine_tune_model.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+data/*
+train_model/*
+log/*
+pb/*
+export_dir/*
