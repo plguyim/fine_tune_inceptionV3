@@ -4,8 +4,8 @@
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/workspace.xml
-data/*
-train_model/*
-log/*
-pb/*
-export_dir/*
+/data
+/train_model
+/export_dir
+/frozen_graph_pb_files
+/logs
